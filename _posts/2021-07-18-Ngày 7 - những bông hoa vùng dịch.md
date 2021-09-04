@@ -2,7 +2,7 @@
 title: Ngày 7 - những bông hoa vùng dịch
 date: 2021-07-18
 author: drringo
-
+layout: post
 ---
 Như các bác cũng thấy hình mình chụp, ở phía dưới phòng mình ở là một vườn hoa dại đang nở. Tháng 7 mưa ngâu, sau mỗi cơn mưa những bông hoa đó dường như khó phai tàn hơn.
 

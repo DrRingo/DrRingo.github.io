@@ -2,7 +2,7 @@
 title: Ngày 16 - tình người trong đại dịch
 date: 2021-07-27
 author: drringo
-
+layout: post
 ---
 Làm sản khoa, chúng tôi có tiết mục đẻ không đau, thường sản phụ khi đau đẻ không mấy người chịu đựng được, nhất là sau khi đã trải qua hết những tiện nghi hiện đại. Đẻ không đau là kĩ thuật gây tê cột sống, trong đó mình phải tiêm 1 cây kim rất nhỏ vào cột sống và truyền thuốc tê liên tục qua đó. Kĩ thuật khó, thuốc mắc, nên tùy chọn đẻ không đau tốn thêm của sản phụ khoảng 1 triệu, và phải có sự đồng ý của gia đình đang chờ bên ngoài. Và khi xin phép sự đồng ý của gia đình thì có rất nhiều chuyện bi hài xảy ra, nhiều ông chồng sợ tốn tiền nên nhất quyết không đồng ý cho vợ mình đẻ không đau, hoặc có khi ông chồng đồng ý rồi nhưng bà mẹ chồng không chịu, làm như bà đó chưa đau đẻ lần nào hay là bà đã quên. Những trường hợp như vậy, đầu tiên sẽ nhận được cái lườm nguýt của các em nữ hộ sinh, sau đó mới đến các bà bầu. Các anh dại lắm, chuyện tốn là một chuyện, con vợ mình cứ mỗi giây nó đau đẻ sau quyết định đó của các anh, nó sẽ ghim chuyện này tận trong tim. Đẻ xong, nó cũng chẳng lấy thế làm lý do li dị đâu, gái đẻ con tã người rồi đào đâu ra trai trẻ nữa, nhưng mỗi lần nhà có chuyện, nó sẽ nhắc đi nhắc lại cho đến lúc anh ân hận thà lúc xưa ấy mình bỏ mịa ra 1 triệu cho xong.
 

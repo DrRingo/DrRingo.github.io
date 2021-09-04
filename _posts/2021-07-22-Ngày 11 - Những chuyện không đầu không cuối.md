@@ -2,7 +2,7 @@
 title: Ngày 11 - Những chuyện không đầu không cuối
 date: 2021-07-22
 author: drringo
-
+layout: post
 ---
 Như các bác cũng nhớ vào ngày thứ 2, mình có viết bài về một bác sĩ trẻ, không biết mình có lăng xê quá mức không. Sau đó thì em nó nhận được khá nhiều tin làm quen, các chị đòi sống đòi chết, một phần sau khi đọc bài viết đó của mình.
 

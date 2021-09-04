@@ -2,7 +2,7 @@
 title: Ngày 6 - nghệ thuật điều trị, phần 1
 date: 2021-07-17
 author: drringo
-
+layout: post
 ---
 Tôi là một người học toán từ nhỏ, tình cờ bước vào trường y và ở lại đó cho đến giờ. Ấn tượng đầu tiên của tôi đối với mọi người trong môi trường y khoa các bạn biết là gì không? Mọi người ở đây dường như chẳng có tư duy logic, họ rất dễ dàng tin vào những kiến thức không được kiểm chứng hay chưa được hiểu cặn kẽ, thậm chí có những niềm tin đi ngược lại các định luật vật lý. Đó là sự bất tương thích mà tôi phải chịu đựng hàng ngày trong suốt gần 20 năm qua.
 

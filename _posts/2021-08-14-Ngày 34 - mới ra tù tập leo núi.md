@@ -2,7 +2,7 @@
 title: Ngày 34 - mới ra tù tập leo núi
 date: 2021-08-14
 author: drringo
-
+layout: post
 ---
 ![enter image description here](http://helen.drbinhthanh.com/data/img/ngay11-2.jpg)
 Như vậy là mình đã về đến nhà. Sáng nay, xe của bệnh viện chở người lên thay thế. Do lúc đi, mình đi có một mình nên hôm nay họ chở đúng một bác sĩ lên thay thế. Không sai một ngày, và không thiếu một người nào, chính xác và gọn gàng. Mình có 30 phút để gom đồ đạc, bàn giao lại công việc cho tay bác sĩ mới và chào tạm biệt mọi người ở khu chống dịch. Chở mình về là một chiếc xe của hãng Phương Trang được trưng dụng để vận chuyển bệnh nhân và vật dụng chống dịch. Mình ngồi chung với tay tài xế cũng dân Nghĩa Dũng, Quảng Ngãi. Nói rất nhiều chuyện, từ chuyện Quảng Ngãi không cho người dân quay về tỉnh nhà, cho tới đời sống dân tình dạo này ra sao. Hơn một tháng ở đây, mình như ở trong trại cải tạo, trừ lúc đi chuyển bệnh hôm trước thì mình hoàn toàn cắt đứt với đời sống thường nhật. Đường phố Sài Gòn lướt qua vắng ngắt, xe chạy từ Thủ Đức vào mà có cảm giác như chạy vào một thành phố hậu tận thế. Mình vào bệnh viện, trao trả vài dụng cụ chống dịch rồi lấy xe chạy về nhà.

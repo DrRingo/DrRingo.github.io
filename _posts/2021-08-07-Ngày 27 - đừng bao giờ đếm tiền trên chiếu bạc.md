@@ -2,7 +2,7 @@
 title: Ngày 27 - đừng bao giờ đếm tiền trên chiếu bạc
 date: 2021-08-07
 author: drringo
-
+layout: post
 ---
 Mấy hôm nay bệnh viện có nhiều nhóm bác sĩ hoàn thành thời hạn rồi ra về, thay bằng loạt người mới, làm mình cảm thấy nao nao. Mình sắp được về nhà rồi, chỉ còn đúng 1 tuần nữa thôi. Anh em oánh bài cũng biết, oánh bài tới gần sáng là lúc quyết định thắng thua nhất. Trước đợt dịch lần này có 1 tháng, mình ngồi chơi bài Uno nguyên đêm với đám đệ tử con nhang, lúc đầu giờ mình thắng 3 ván liên tiếp mà đến lúc gần cuối lại bị vượt qua, hận.
 

@@ -2,7 +2,7 @@
 title: Ngày 29 - nghệ thuật điều trị, phần 2
 date: 2021-08-09
 author: drringo
-
+layout: post
 ---
 Mình sẽ bú fame một chút, về chuyện đang được lan truyền về tay nào được gọi là bs rút ổng thở của người thân mình. Nghe qua câu chuyện sặc mùi phi lí này, đáng lẽ chúng ta sẽ bỏ qua nó như bỏ qua một câu chuyện nhảm nữa mà ta gặp trên mạng. Ấy vậy mà thời nay dường như chẳng còn ai có óc suy xét, ta lan truyền nó, nhận xét nó, trưng ra hàng đống lí luận để tô vẽ hợp lí hóa nó, làm như câu chuyện đó là có thật, và làm như lực lượng y tế sẽ sẵn lòng hi sinh mọi thứ của bản thân để cứu đời cứu người. Sặc mùi cánh tả. Khi người ta kể một câu chuyện phi lí đến không tưởng về sự hi sinh, rằng người lính sẵn sàng lấy thân mình lấp lỗ châu mai, ấy là lúc người ta đang hợp thức hóa cho sự hi sinh đến mức phi lí và phi luân ấy và yêu cầu một hành động tương tự từ các bạn. Người ta đang cần đến máu của bạn đó.
 

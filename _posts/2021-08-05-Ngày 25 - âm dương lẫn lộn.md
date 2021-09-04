@@ -2,7 +2,7 @@
 title: Ngày 25 - âm dương lẫn lộn
 date: 2021-08-05
 author: drringo
-
+layout: post
 ---
 ![enter image description here](http://helen.drbinhthanh.com/data/img/ngay25.jpg)![enter image description here](http://helen.drbinhthanh.com/data/img/ngay25-2.jpg)
 Hãy nhìn người phụ nữ này, SpO2 của bà ấy cứ duy trì 70 - 75% 7 ngày nay rồi, ngày đầu tiên mình khám sau nhập viện bà đi đứng rất chậm, hỏi trả lời được, còn cười khi mình hỏi bệnh. Ông chồng thì khỏe re, đi đứng hoạt bát, dù cả 2 cũng đã khá lớn tuổi. Mình dặn dò, chú phải để ý chăm sóc cho cô, có thấy điều gì lạ phải gọi cho bác sĩ ngay.

@@ -2,7 +2,7 @@
 title: Ngày 10 - Thích nghi sinh học
 date: 2021-07-21
 author: drringo
-
+layout: post
 ---
 ![enter image description here](http://helen.drbinhthanh.com/data/img/ngay10.jpg)
 Có một điều mà mình cần lưu ý cho chính mình và các bạn đang cách ly. Rằng cơ thể con người nó có một cơ chế thích nghi, tương tự như khi ta vào nhà vệ sinh, lúc đầu thì thấy không thể ở nổi, nhưng lâu dần, bạn ngồi bấm điện thoại hàng giờ trong đó. COVID cũng vậy, vượt qua những bỡ ngỡ ban đầu. Chúng ta sẽ nhận ra bệnh này không gây tử vong cao như mình nghĩ. F0 thì đã sao, nhiều F0 quanh ta có triệu chứng gì đâu. Thế là, ngày qua ngày, ta lơi lỏng cảnh giác, sinh hoạt thoải mái hơn một chút, rồi sẽ đến lúc ta sẽ quá thoải mái và bung lụa. Đó là những gì mình đang thấy trong khu cách ly này, nhiều nhân viên chống dịch đang quá tự do mà quên đi mất họ đang ở trong một môi trường virus chưa tìm được thuốc trị. Không như HIV lây qua đường sung sướng, con này lây qua đường không khí, chỉ cần hít thở, chưa được sướng tí nào cũng đã dính.

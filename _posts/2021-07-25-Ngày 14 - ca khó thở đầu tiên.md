@@ -2,7 +2,7 @@
 title: Ngày 14 - ca khó thở đầu tiên
 date: 2021-07-25
 author: drringo
-
+layout: post
 ---
 Mình đi đến nay đã 2 tuần, và may mắn là trong thời gian đó mình chưa có một ca bệnh trở nặng nào. Có thể do mình may mắn, hoặc cũng có thể do tiêu chí điều trị của mình là dập tắt bất kì con sóng nhỏ nào vừa nhú, để nó không bao giờ có cơ hội đe dọa. Cho đến tối hôm qua.
 

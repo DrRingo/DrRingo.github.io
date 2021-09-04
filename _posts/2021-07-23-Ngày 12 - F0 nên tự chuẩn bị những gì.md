@@ -2,7 +2,7 @@
 title: Ngày 12 - F0 nên tự chuẩn bị những gì
 date: 2021-07-23
 author: drringo
-
+layout: post
 ---
 Những ngày gần đây, F0 được phát hiện ngày càng nhiều, và điều hiển nhiên là hệ thống y tế có những giới hạn của nó. Không phải tất cả F0 nào cũng sẽ được nhập viện theo dõi. Vì vậy, trong khi chờ để được đi cách ly, trước mắt là mình tự theo dõi triệu chứng của mình và điều trị những dấu hiệu nhẹ tại nhà. Bạn bè mình cũng đã có nhiều người có người nhà có F0, mọi người hay gọi mình nên chuẩn bị những gì. Nên mình liệt kê ở đây để mọi người tham khảo luôn.
 

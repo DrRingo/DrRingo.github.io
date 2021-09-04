@@ -2,7 +2,7 @@
 title: Ngày 23 - cắt tóc mùa dịch
 date: 2021-08-03
 author: drringo
-
+layout: post
 ---
 Trước khi đi chống dịch, mình đã có 3 tuần cách ly ở nhà, và các bác có biết tự lấy cái tông đơ, soi gương rồi tự cà lên đầu nó khó cỡ nào không.
 
