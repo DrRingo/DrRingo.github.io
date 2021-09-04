@@ -1,0 +1,15 @@
+﻿---
+title: Ngày 16 - tình người trong đại dịch
+date: 2021-07-27
+author: drringo
+
+---
+Làm sản khoa, chúng tôi có tiết mục đẻ không đau, thường sản phụ khi đau đẻ không mấy người chịu đựng được, nhất là sau khi đã trải qua hết những tiện nghi hiện đại. Đẻ không đau là kĩ thuật gây tê cột sống, trong đó mình phải tiêm 1 cây kim rất nhỏ vào cột sống và truyền thuốc tê liên tục qua đó. Kĩ thuật khó, thuốc mắc, nên tùy chọn đẻ không đau tốn thêm của sản phụ khoảng 1 triệu, và phải có sự đồng ý của gia đình đang chờ bên ngoài. Và khi xin phép sự đồng ý của gia đình thì có rất nhiều chuyện bi hài xảy ra, nhiều ông chồng sợ tốn tiền nên nhất quyết không đồng ý cho vợ mình đẻ không đau, hoặc có khi ông chồng đồng ý rồi nhưng bà mẹ chồng không chịu, làm như bà đó chưa đau đẻ lần nào hay là bà đã quên. Những trường hợp như vậy, đầu tiên sẽ nhận được cái lườm nguýt của các em nữ hộ sinh, sau đó mới đến các bà bầu. Các anh dại lắm, chuyện tốn là một chuyện, con vợ mình cứ mỗi giây nó đau đẻ sau quyết định đó của các anh, nó sẽ ghim chuyện này tận trong tim. Đẻ xong, nó cũng chẳng lấy thế làm lý do li dị đâu, gái đẻ con tã người rồi đào đâu ra trai trẻ nữa, nhưng mỗi lần nhà có chuyện, nó sẽ nhắc đi nhắc lại cho đến lúc anh ân hận thà lúc xưa ấy mình bỏ mịa ra 1 triệu cho xong.
+
+COVID cũng không khác, mới hôm qua, bà vợ phòng đó còn gọi mình khóc lóc kể lể chồng em giờ khó thở lắm. Mà giờ thì các bệnh viện cấp cứu đầy hết cả, những ca khó thở như vầy có chuyển đi cũng không nơi nào nhận. Mình cho bệnh nhân xuống dưới tầng trệt, ngồi thở cái bình oxy to như cái bình khí đá hôm trước. Thở một lúc, đo SpO2 ổn ổn rồi cho lên lại phòng. Đến sáng hôm nay, bà vợ lại than chồng em tối hôm qua không thở được phải ngủ ngồi cả đêm, đo SpO2 chỉ có 62%. Mình đang đi khám bệnh giữa chừng, nên dặn khoảng 15ph nữa bác khám xong em dắt chồng xuống chỗ hôm qua để thở oxy tiếp. Khám xong, chẳng thấy ma nào chờ mình. Mình gọi lên bảo xuống, bà vợ nói chồng em giờ khỏe rồi, không đi nữa đâu. Mình nhắc lại đến lần thứ 3, lần cuối mình phải dọa rằng nếu đêm nay chồng chị khó thở, có gọi bác cũng không đến đâu. Bà đó mới cho ông chồng đi xuống một mình qua 4 tầng lầu - một mình đó các bạn, trong khi mới 15ph trước bà đó còn nói chồng em khó thở phải ngủ ngồi, và tận mắt thấy SpO2 chỉ có 62%. Mấy chuyện này chẳng phải lần đầu mình gặp, nên cũng chẳng gợn chút gì trong lòng. Sắp xếp cho tay kia ngồi thở oxy, đo lại thấy ổn ổn chút rồi dặn dò kĩ lưỡng trước khi về phòng.
+
+Lòng người là giấy, đốt là cháy. Đại dịch là một mồi lửa. Nó có thể đốt cháy những thứ mà ta tưởng chừng như vững chãi nhất.
+
+P/S: cô đó cũng dại lắm, dù mình không còn thiết tha gì thằng kia nữa, nhưng giờ đang là lúc đại dịch. Mình và đứa con nhỏ cần có 1 người đàn ông khỏe mạnh để nương tựa qua lúc khó khăn, lo cho tay đó cũng là lo cho mình. Đại dịch hỗn mang mà, trai trẻ đâu còn lởn vởn ngoài đường như thường ngày để dụ thế chỗ cho cây xúc xích kia nữa.
+
+![enter image description here](http://helen.drbinhthanh.com/data/img/ngay16.jpg)

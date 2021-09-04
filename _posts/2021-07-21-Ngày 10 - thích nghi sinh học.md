@@ -1,0 +1,14 @@
+﻿---
+title: Ngày 10 - Thích nghi sinh học
+date: 2021-07-21
+author: drringo
+
+---
+![enter image description here](http://helen.drbinhthanh.com/data/img/ngay10.jpg)
+Có một điều mà mình cần lưu ý cho chính mình và các bạn đang cách ly. Rằng cơ thể con người nó có một cơ chế thích nghi, tương tự như khi ta vào nhà vệ sinh, lúc đầu thì thấy không thể ở nổi, nhưng lâu dần, bạn ngồi bấm điện thoại hàng giờ trong đó. COVID cũng vậy, vượt qua những bỡ ngỡ ban đầu. Chúng ta sẽ nhận ra bệnh này không gây tử vong cao như mình nghĩ. F0 thì đã sao, nhiều F0 quanh ta có triệu chứng gì đâu. Thế là, ngày qua ngày, ta lơi lỏng cảnh giác, sinh hoạt thoải mái hơn một chút, rồi sẽ đến lúc ta sẽ quá thoải mái và bung lụa. Đó là những gì mình đang thấy trong khu cách ly này, nhiều nhân viên chống dịch đang quá tự do mà quên đi mất họ đang ở trong một môi trường virus chưa tìm được thuốc trị. Không như HIV lây qua đường sung sướng, con này lây qua đường không khí, chỉ cần hít thở, chưa được sướng tí nào cũng đã dính.
+
+Cơ thể con người không được thiết kế để chịu đựng được áp lực lâu dài. Tạo hóa đã xây dựng chúng ta chỉ phải stress trong lúc săn con nai trong rừng thôi, còn hầu hết thời gian khác ta đi dạo trong rừng và tối về thì ngồi nhìn đống lửa. Ta từng là bá chủ, chẳng có gì ta phải sợ quá lâu cả.
+
+Thế nên, chắc chắn đến một lúc, các bạn sẽ buông lơi, và đó là lúc con virus lại hành động (biến thể Delta là một ví dụ, nó xuất hiện sau một mùa đông 2020 yên lặng ít ca nhiễm).
+
+P/S: hình dưới là hình mình chụp mấy con bướm trong rừng Mã Đà, chiến khu D. Những con bướm sặc sỡ sẽ dễ tìm được bạn tình và có cơ hội để lại gene di truyền cao hơn, nhưng bù lại màu sắc sặc sỡ của nó sẽ thu hút loài thiên địch và có nguy cơ chết trẻ hơn trước khi có cơ hội nhân giống, cho nên những con bướm ít sặc sỡ hơn vẫn có cơ hội tồn tại - thích nghi và cân bằng sinh học.
