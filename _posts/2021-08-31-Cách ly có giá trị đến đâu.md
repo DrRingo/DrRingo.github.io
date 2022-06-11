@@ -2,6 +2,7 @@
 title: Cách ly có giá trị đến đâu
 date: 2021-08-31
 author: drringo
+layout: post
 
 ---
 Từ năm ngoái, từ những ngày đầu của dịch COVID-19 bùng phát, đó là một cơ hội bằng vàng cho những nhà khoa học để thi triển kĩ năng học thuật của mình. Rất nhanh, chúng ta đã có câu trả lời cho gần như mọi thứ: từ đặc tính virus, hệ số lây lan và thậm chí [bản đồ gen của virus](https://www.ncbi.nlm.nih.gov/sars-cov-2/). Cái bản đồ gen ấy là cơ sở để chúng ta có vaccine theo công nghệ RNA như hiện nay (nếu công nghệ này được áp dụng, sẽ không lâu nữa chúng ta sẽ có cả vaccine cho HIV). Nhưng ở đây, mình sẽ chỉ thảo luận về chuyện cách ly có giá trị đến mức độ nào.
