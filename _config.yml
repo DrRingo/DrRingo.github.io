@@ -3,7 +3,7 @@ title_left    : "Dr. Ringo's blog"
 title_right   : "" # default: ""
 description   : "Dr. Ringo's stories and mainsteam thinking"
 keywords      : "medicine, finance, obstetric, gynecology"
-url           : https://drringo.github.io/ # site url
+url           : https://blog.drbinhthanh.com/ # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
