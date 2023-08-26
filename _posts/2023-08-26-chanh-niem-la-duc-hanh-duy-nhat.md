@@ -4,7 +4,7 @@ title: Chánh niệm là đức hạnh duy nhất tồn tại
 layout: post
 date: 2023-08-26
 ---
-![Sách "mang thai chánh niệm"](../assets/img/mangthaichanhniem.JPG)
+![Sách "mang thai chánh niệm"](/assets/img/mangthaichanhniem.JPG)
 
 > Đức Phật đã nói, chánh niệm là đức hạnh duy nhất tồn tại
 
