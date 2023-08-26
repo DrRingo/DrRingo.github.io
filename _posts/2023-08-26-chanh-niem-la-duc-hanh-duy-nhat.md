@@ -10,6 +10,7 @@ date: 2023-08-26
 
 Lúc sáng mình thấy cuốn sách này trên tiki, thoạt nhìn, mình nghĩ cái tựa đề sách gì mà kì khôi. Nhưng 5 phút sau, mình đã đặt mua cuốn sách.
 Nếu các lý thuyết của nhà Phật là đúng, thì quá trình mang thai là sự tiếp nhận chuyển sanh của một linh hồn khác vào chung sống với gia đình, thì khi đó, những đức hạnh của người mẹ trong lúc mang thai sẽ quyết định rất lớn đến tính cách và cuộc sống của đứa con sau này.
+
 P/S: vì sự hạn chế của ngôn ngữ, chữ "chánh niệm" rất dễ làm ta nghĩ đến những thứ phủ định của nó, ví dụ như "tà niệm". Nhưng thực sự không phải, chỉ có chánh niệm hay không có chánh niệm mà thôi. 
 
 Chánh niệm là sự nhận thức về sự tồn tại của bản thân mình trong mọi khoảnh khắc của cuộc sống. Đó là điều duy nhất mà một sinh vật sống có ý thức có thể làm để cho cuộc đời mình có ý nghĩa. Vì vậy, đức Phật đã nói nó là đức hạnh duy nhất tồn tại. 
