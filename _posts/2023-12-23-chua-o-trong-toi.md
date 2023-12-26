@@ -4,7 +4,7 @@ title: Chúa ở trong tôi
 layout: post
 date: 2023-12-23
 ---
-![Cô gái mặc áo choàng](./assets/img/aochoang.jpeg)
+![Cô gái mặc áo choàng](/assets/img/aochoang.jpeg)
 
 Tôi sẽ kể cho các bạn trải nghiệm du lịch đáng nhớ nhất trong chuyến du lịch Ấn Độ vừa rồi, và cũng là trải nghiệm đáng nhớ nhất trong năm nay, đó là trải nghiệm ăn McDonald ở Ấn Độ.
 
@@ -27,7 +27,7 @@ Rất nhiều lần trên đường, tôi bắt gặp một người lao động
 Khi đi du lịch tôi thường cố gắng ăn món địa phương, tôi chỉ ghé quán McDonald khi mình đã đói lả, và thường thì tôi gọi một phần BigMac kèm theo một ly Coca lớn. Và khi tôi nhìn lên, người hầu bàn chìa ra cho tôi phần ăn, với cái đôi mắt sâu như đã giác ngộ qua ngàn kiếp ấy, đến nỗi tôi phải thốt lên:
 
 > Ôi, Đức Phật, ngài đấy ư, ngài dọn cho con ăn cái thứ quái quỷ gì thế này?
-> 
+
 P/S 1: 24/12 không phải là ngày sinh của người đàn ông tên Jesus đâu, ngày này là ngày lễ của những tôn giáo đã có trước Thiên Chúa giáo. Nó chỉ là một cách để người ta bắt bạn phải nhớ, rằng trước khi mọi thứ bắt đầu lại từ đầu 1 tuần, bạn cần quay về với người đã sáng tạo ra thế giới này, nhắc bạn rằng mọi việc bạn làm điều phục vụ cho ý chí của ông ta và mọi vinh quang đều thuộc về Chúa trời.
 
 P/S 2: lần sau, khi bạn ăn, hãy nhìn đến tâm tư của người nấu hôm ấy.
